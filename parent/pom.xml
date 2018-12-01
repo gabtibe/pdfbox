@@ -24,7 +24,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>16</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.pdfbox</groupId>
@@ -81,7 +81,7 @@
             <dependency>
                 <groupId>org.bouncycastle</groupId>
                 <artifactId>bcmail-jdk15on</artifactId>
-                <version>1.57</version>
+                <version>1.60</version>
             </dependency>
             <dependency>
                 <groupId>org.bouncycastle</groupId>
